@@ -4,7 +4,7 @@
 
 I'm Nathan, a seasoned Front-End Engineer and UX/UI specialist from Ghent, Belgium. I love transforming ideas into beautiful and efficient user interfaces that make a real difference. 
 
-Currently, I am leading front-end development at Agfa, focusing on crafting a proprietary Blazor design system that improves user experience across our applications.
+Currently, I am working as Front-End Lead at [Agfa](https://www.agfa.com/corporate/), focusing on crafting a proprietary Blazor design system that improves user experience across our applications.
 
 ### 🛠 Tech Stack
 
@@ -19,17 +19,17 @@ Currently, I am leading front-end development at Agfa, focusing on crafting a pr
 
 ### 💼 Experience Highlights
 
-#### Lynx Beleggen / Senior Front-End Engineer
+#### [Lynx Beleggen](https://www.lynx.be/) / Senior Front-End Engineer
 - **UI Overhaul:** Spearheaded the complete UI revamp of Lynx's stock trading web application, significantly enhancing user experience and functionality.
 - **Technological Integration:** Led a ground-up rebuild of the front end, incorporating modern technologies to streamline feature deployment and improve overall system performance.
 
-#### Showpad / Front-End Engineer
+#### [Showpad](https://www.showpad.com/) / Front-End Engineer
 - **Custom Solutions:** Developed custom web applications and specialized tooling to enhance client experiences.
 - **Technical Facilitation:** Conducted technical training sessions and supported the integration of Showpad API and Experience App SDK.
 
-#### Bricsys / Front-End Engineer and UX/UI Analyst
-- **Front-End Management:** Handled front-end development for corporate websites and Bricsys 24/7, a cloud-based management platform.
-- **Usability Leadership:** Directed usability testing and optimized UX/UI design workflows to improve product accessibility and efficiency.
+#### [Bricsys](https://www.bricsys.com/) / Front-End Engineer and UX/UI Analyst
+- **Front-End:** Worked on Bricsys 24/7, a cloud-based management platform and handled front-end development for corporate websites.
+- **UX/UI:** Introduced usability testing and optimized UX/UI design workflows to improve product accessibility and efficiency.
 
 ### 🤝 Connect
 
