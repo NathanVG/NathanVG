@@ -1,41 +1,23 @@
 # Nathan Y. Van Gierdegom
 
-## About Me
+## 👋 Hey there!
 
-Hello! I'm Nathan, a freelance Lead/Senior Front-End Engineer based in Gent, Belgium. With a extensive experience in SaaS environments, I specialize in transforming conceptual ideas into user-friendly digital experiences that stand out in the industry. 
+I'm Nathan, a seasoned Front-End Engineer and UX/UI specialist from Ghent, Belgium. I love transforming ideas into beautiful and efficient user interfaces that make a real difference. Currently, I lead the front-end development at Agfa, focusing on crafting a unified design system that improves user experience across our applications.
 
-## Current Work
+### 🛠 Tech Stack
 
-### Agfa - Gevaert NV. / Front End Lead
-As the Front End Lead at Agfa, I am currently spearheading the design and implementation of a comprehensive design system and component library. 
-This initiative aims to unify UX across multiple applications, enhancing usability and consistency for a broad user base.
+- **Front-End/UX:** JavaScript, TypeScript, HTML5, CSS3, React.js, Vue.js, AngularJS
+- **Frameworks & Libraries:** Blazor, .NET, C#, Astro.js, Qwik
+- **Tools & Platforms:** Azure DevOps, Git, GitHub, GitLab, AWS, Google Cloud, Vercel
+- **Design & Architecture:** UX/UI Design, Front End Architecture, Full Stack Architecture, CI/CD, Design Systems
 
-## Skills Overview
+### 💼 Experience Highlights
 
-- **Languages & Frameworks:** Blazor, .NET, C#, JavaScript, TypeScript, HTML5, CSS3, React.js, Vue.js, Next.js, Nuxt.js, AngularJS, Astro.js, Qwik
-- **Technologies & Tools:** Tailwind CSS, Azure DevOps, Git, GitLab, GitHub, Vercel, AWS, Google Cloud, Node.js, Express, REST API's
-- **Architectural & Design:** Front End Architecture, Full Stack Architecture, DevOps, CI/CD, UX/UI Design, Design Systems, Component Libraries
-- **State Management & APIs:** Redux (Toolkit), Zustand, React Query, tRPC, ZOD, Pinia
+- **Agfa - Gevaert NV:** Leading the creation of a comprehensive design system.
+- **PXLS:** Started from small website projects in college to leading a freelance team building complex web apps.
+- **Lynx Beleggen:** Spearheaded major UI overhauls and technology integrations.
 
-## Experience
+### 🤝 Connect
 
-### PXLS / Freelance Front-End Engineer and Project Lead
-I began crafting small websites in college and scaled to leading a team of former colleagues in developing complex web applications. Employed cutting-edge practices and collaborative efforts for standout digital solutions.
-
-### Lynx Beleggen / Senior Front-End Engineer
-Led a complete UI overhaul and a ground-up rebuild of the trading platform's front end, integrating modern technologies to enhance both user and developer experiences.
-
-### Showpad / Front-End Engineer
-Developed custom web applications and tooling, facilitated technical training, and supported Showpad API and Experience App SDK implementations.
-
-### Bricsys / Front-End Engineer and UX/UI Analyst
-Managed front-end development for corporate websites and a cloud management platform, led usability testing, and optimized design workflows.
-
-### Superkraft / Front-End Developer
-#### Ghent, September 2016 - March 2017
-crafted email marketing campaigns and rebuilt the company's website using advanced CSS pre-processors and JavaScript.
-
-## Let's Connect
-
-Interested in collaborating on a project or have a question about front-end development? Feel free to reach out!
+Whether you're interested in a collaboration or just want to chat about the latest in web tech, feel free to reach out!
 
