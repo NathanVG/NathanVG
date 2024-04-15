@@ -2,9 +2,11 @@
 
 ## 👋 Hey there!
 
-I'm Nathan, a seasoned Front-End Engineer and UX/UI specialist from Ghent, Belgium. I love transforming ideas into beautiful and efficient user interfaces that make a real difference. 
+I'm Nathan, a seasoned freelance Front-End Engineer and UX/UI specialist from Ghent, Belgium. I love transforming ideas into beautiful and efficient user interfaces that make a real difference. 
 
 Currently, I am working as Front-End Lead at [Agfa](https://www.agfa.com/corporate/), focusing on crafting a proprietary Blazor design system that improves user experience across our applications.
+
+I also develop custom applications and websites for businesses through my company PXLS. 
 
 ### 🛠 Tech Stack
 
