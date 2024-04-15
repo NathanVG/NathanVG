@@ -27,7 +27,7 @@ Currently, I am working as Front-End Lead at [Agfa](https://www.agfa.com/corpora
 - **Custom Solutions:** Developed custom web applications and specialized tooling to enhance client experiences.
 - **Technical Facilitation:** Conducted technical training sessions and supported the integration of Showpad API and Experience App SDK.
 
-#### [Bricsys](https://www.bricsys.com/) / Front-End Engineer and UX/UI Analyst
+#### [Bricsys](https://www.bricsys.com/nl-be/247) / Front-End Engineer and UX/UI Analyst
 - **Front-End:** Worked on Bricsys 24/7, a cloud-based management platform and handled front-end development for corporate websites.
 - **UX/UI:** Introduced usability testing and optimized UX/UI design workflows to improve product accessibility and efficiency.
 
